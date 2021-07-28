@@ -4,6 +4,8 @@ This is the completed TeamFlow take-home interview project, done using Cypress i
 
 The code itself can be found in CypressAutomations/cypress/integration/TeamFlow Proj/GIPHYTests.js
 
+**The suite can be run in terminal by cd'ing to the project's directory and running "npm run cy:run"**
+
 The tests contained within are as follows: 
 
 1: "Verify Page Title":
