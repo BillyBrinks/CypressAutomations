@@ -1,6 +1,8 @@
 # CypressAutomations
 
-This is the completed TeamFlow take-home interview project, done using Cypress in Visual Studio Code. 
+This is the completed TeamFlow take-home interview project, done using Cypress in Visual Studio Code.
+
+The code itself can be found in CypressAutomations/cypress/integration/TeamFlow Proj/GIPHYTests.js
 
 The tests contained within are as follows: 
 
